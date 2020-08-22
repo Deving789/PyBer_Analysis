@@ -20,6 +20,14 @@ Results by city type:
 
 <img width="634" alt="Screen Shot 2020-08-22 at 11 51 54 AM" src="https://user-images.githubusercontent.com/67278193/90960279-8f4dd680-e46e-11ea-8e04-f0205ba6c66d.png">
 
-Summary:
+Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. Although we didn't explore every individual city we still have a great grasp on what fares will look like from week to week based on city type which is enough information decide on rates that will need to be charged after we can classify what type of city the consumer lives in. In conclusion we can effectively say that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
+
+# recommendations 
+
+1. Have your drivers assigned to different city types based off of what type of cities they typically work in.
+2. Charge more per mile in urban cities because trips most likely are shorter and drivers dont earn as much per trip.
+3. Make small charge increases or descreases based off of how many riders there are in the city during certain months.
+
+Thank you for reading.
