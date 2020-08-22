@@ -7,9 +7,19 @@ The purpose of our analysis is to create a summary dataframe that will show ride
 
 Results by city type:
 
+#Quick facts by city type, seen in the image below our facts
+- Rural cities has the least amount of drivers, rides and total fares.
+- Urban cities have the most amount of drivers, rides and total fares.
+- Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
+- Although Rural cities see the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver.
+- Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
 
+<img width="629" alt="Screen Shot 2020-08-22 at 11 50 22 AM" src="https://user-images.githubusercontent.com/67278193/90960275-8c52e600-e46e-11ea-97c9-5b139e98ebe8.png">
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+# Total Fare by city type chart between January & April of 2019
+
+<img width="634" alt="Screen Shot 2020-08-22 at 11 51 54 AM" src="https://user-images.githubusercontent.com/67278193/90960279-8f4dd680-e46e-11ea-8e04-f0205ba6c66d.png">
+
 Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
